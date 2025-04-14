@@ -1,5 +1,19 @@
 {
-  "https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi"
-  "https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi"
-  "https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi"
-}
+  /classified/latest/12:
+   { performance:{currentValue:73,previousValue:75,diff:-2,isRegression:true},
+     url:{https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi,:true},
+     lcp:{currentValue:1181,previousValue:1061,diff:120,isRegression:true},
+     cls:{currentValue:0.002,previousValue:0.002,diff:0,isRegression:false},
+     tbt:{currentValue:1803,previousValue:1456,diff:347,isRegression:true}},
+  /_maison_jardin_/offres:
+    { performance:{currentValue:68,previousValue:71,diff:-3,isRegression:true},
+      url:{https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi,:true},
+      lcp:{currentValue:2045,previousValue:1513,diff:532,isRegression:true},
+      cls:{currentValue:0.048,previousValue:0.048,diff:0,isRegression:false},
+      tbt:{currentValue:2518,previousValue:2260,diff:258,isRegression:true}},
+  /:
+    { performance:{currentValue:72,previousValue:72,diff:0,isRegression:false},
+      url:{https://www.desmos.com/calculator/0ovfwwmfrb?lang=vi,:true},
+      lcp:{currentValue:1338,previousValue:1228,diff:110,isRegression:true},
+      cls:{currentValue:0.059,previousValue:0.059,diff:0,isRegression:false},
+      tbt:{currentValue:1747,previousValue:1789,diff:-42,isRegression:false}}}
